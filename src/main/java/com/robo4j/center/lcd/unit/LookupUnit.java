@@ -58,7 +58,7 @@ public class LookupUnit extends RoboUnit<Integer> implements TableViewProcessor<
     public static final String METADATA_UNIT_HTTP_CONF = "unitConf";
     public static final String METADATA_UNIT_PROCESSOR = "unitProcessor";
     public static final String METADATA_DESC = "desc";
-    private static final int PORT_RANGE_START = 12000;
+    private static final int PORT_RANGE_START = 11000;
     public static final String METADATA_IP = "ip";
     private final static String BUTTON_TEXT_ACTION = "Action";
     private final static String BUTTON_TEXT_DISABLE = "Disable";
@@ -194,6 +194,7 @@ public class LookupUnit extends RoboUnit<Integer> implements TableViewProcessor<
 
     private void processLcd(String contextName) throws Exception {
         //TODO implement logic
+        SimpleLoggingUtil.info(getClass(), "needs to be implemented");
     }
 
 
