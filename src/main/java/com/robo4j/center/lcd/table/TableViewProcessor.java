@@ -15,7 +15,7 @@
  * along with Robo4J. If not, see <http://www.gnu.org/licenses/>.
  */
 
-package com.robo4j.center.lcd.element;
+package com.robo4j.center.lcd.table;
 
 import javafx.scene.control.TableView;
 

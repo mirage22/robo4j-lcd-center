@@ -20,7 +20,7 @@ package com.robo4j.center.lcd.unit;
 import com.robo4j.ConfigurationException;
 import com.robo4j.RoboContext;
 import com.robo4j.RoboUnit;
-import com.robo4j.center.lcd.element.TableViewProcessor;
+import com.robo4j.center.lcd.table.TableViewProcessor;
 import com.robo4j.center.lcd.model.DescRawElement;
 import com.robo4j.configuration.Configuration;
 import com.robo4j.logging.SimpleLoggingUtil;
