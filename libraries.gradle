@@ -18,6 +18,4 @@ ext {
     robo4jVersion = "alpha-0.4"
     roboGradleVersion = "4.10"
     junitVersion = "4.12"
-    hamcrestAllVersion = "1.3"
-    mockitoAllVersion = "1.10.19"
 }
